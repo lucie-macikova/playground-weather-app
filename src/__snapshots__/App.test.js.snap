@@ -1,0 +1,17 @@
+exports[`test renders without crashing 1`] = `
+<div
+  className="App">
+  <h1>
+    Pocasi
+  </h1>
+  <form
+    onSubmit={[Function]}>
+    <label>
+      Chci pocasi
+    </label>
+    <input
+      placeholder="city, country"
+      type="text" />
+  </form>
+</div>
+`;
